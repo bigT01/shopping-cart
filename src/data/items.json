@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "apple",
+    "price": 4.99,
+    "imageUrl": "/img/apple.webp"
+  },
+  {
+    "id": 2,
+    "name": "orange",
+    "price": 2.99,
+    "imageUrl": "/img/orange.webp"
+  },
+  {
+    "id": 3,
+    "name": "pen",
+    "price": 10.99,
+    "imageUrl": "/img/pen.webp"
+  },
+  {
+    "id": 4,
+    "name": "burger",
+    "price": 1.99,
+    "imageUrl": "/img/burger.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "cola",
+    "price": 2.15,
+    "imageUrl": "/img/cola.jpeg"
+  }
+]
